@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+.links {
+	margin-bottom: 15px;
+}
+
+td, th {
+	padding: 5px;
+}
+
+.glyphicon-exclamation-sign {
+    padding-right: 5px;
+}
+
+div#homePage, div#todoList {
+	margin-top:40px;
+	display:none;
+}
+
+#errorContainer {
+	display:none;
+}
+
+.alert {
+	padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px
+}
+
+form input, form textarea {
+	width: 100%;
+}
